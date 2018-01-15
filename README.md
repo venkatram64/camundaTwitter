@@ -1,5 +1,7 @@
 # Tweet directly from the Tasklist - Spring Boot packaged
 
+https://camunda.org/examples/
+
 This example demonstrates how you can use BPM process and Tweeter API to build simple Twitter client. 
 It uses `camunda-bpm-spring-boot-starter-webapp` and thus embed Tomcat as a web container.
 
